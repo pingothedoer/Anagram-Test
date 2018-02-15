@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="pingo.betnek.testproject.MainActivity">
+
+    <EditText
+        android:id="@+id/first_letter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/shape_field"
+        android:hint="@string/enter_first_letter"
+        android:padding="16dp" />
+
+    <EditText
+        android:id="@+id/second_letter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/shape_field"
+        android:hint="@string/enter_second_letter"
+        android:padding="16dp" />
+
+
+    <Button
+        android:id="@+id/checkAnagram"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:layout_margin="16dp"
+        android:background="@drawable/shape_button"
+        android:paddingEnd="16dp"
+        android:paddingStart="16dp"
+        android:text="@string/check_anagram"
+        android:textColor="@android:color/white" />
+
+
+</LinearLayout>

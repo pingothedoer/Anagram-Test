@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Anagram Test</string>
+    <string name="enter_first_letter">Enter First Word</string>
+    <string name="enter_second_letter">Enter Second Word</string>
+    <string name="check_anagram">Check Anagram</string>
+    <string name="anagram_failed">Anagram Check Failure.</string>
+    <string name="anagram_success">Anagram Check Success ! Both Words are anagram.</string>
+</resources>
