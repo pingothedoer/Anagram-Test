@@ -12,7 +12,7 @@ Android Studio 3.0 or above.
 
 ## Authors
 
-* **Muhammad Ali Ansari** - [LinkedIn](https://github.com/PurpleBooth)
+* **Muhammad Ali Ansari** - [LinkedIn](https://www.linkedin.com/in/muhammad-ali-ansari-81571518)
 
 
 ## License
